@@ -36,6 +36,6 @@
 ![P77](https://user-images.githubusercontent.com/93004722/139877796-71316242-ce6a-4c5d-a2ab-92909398953f.PNG)
 ## 8. Lingkaran
 ### Flowchart
-![Skala 33](https://user-images.githubusercontent.com/93004722/139688339-73186184-04da-48e5-b95a-f269f50b0426.PNG)
+![P8](https://user-images.githubusercontent.com/93004722/139879031-8ac7dd52-63c6-488b-8019-4fe2ad13872b.PNG)
 ### VS Code
-![S33](https://user-images.githubusercontent.com/93004722/139688902-0f7d034d-8756-48ef-9866-fc68a5971776.PNG)
+![P88](https://user-images.githubusercontent.com/93004722/139879582-aba0d24c-3aab-41dd-941d-b4960bebb546.PNG)
