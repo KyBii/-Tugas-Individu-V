@@ -26,14 +26,14 @@
 ![P55](https://user-images.githubusercontent.com/93004722/139874481-586003ed-e31c-447c-8e76-d7adb6d962b0.PNG)
 ## 6. Layang-Layang
 ### Flowchart
-![Skala 33](https://user-images.githubusercontent.com/93004722/139688339-73186184-04da-48e5-b95a-f269f50b0426.PNG)
+![P6](https://user-images.githubusercontent.com/93004722/139875775-9896a938-f227-4371-8b36-b08700663fc8.PNG)
 ### VS Code
-![S33](https://user-images.githubusercontent.com/93004722/139688902-0f7d034d-8756-48ef-9866-fc68a5971776.PNG)
+![P66](https://user-images.githubusercontent.com/93004722/139876182-64573f69-b72b-4ed6-9385-31d0f0f4760f.PNG)
 ## 7. Trapesium
 ### Flowchart
-![Skala 22](https://user-images.githubusercontent.com/93004722/139689648-89af69ea-319c-423a-bb0e-d033a6ba0035.PNG)
+![P7](https://user-images.githubusercontent.com/93004722/139877168-926f3a42-7ae2-4aad-bf71-d20e958ce9eb.PNG)
 ### VS Code
-![S22](https://user-images.githubusercontent.com/93004722/139690332-59a36954-5546-48d5-85fe-e5391ae7b882.PNG)
+![P77](https://user-images.githubusercontent.com/93004722/139877796-71316242-ce6a-4c5d-a2ab-92909398953f.PNG)
 ## 8. Lingkaran
 ### Flowchart
 ![Skala 33](https://user-images.githubusercontent.com/93004722/139688339-73186184-04da-48e5-b95a-f269f50b0426.PNG)
